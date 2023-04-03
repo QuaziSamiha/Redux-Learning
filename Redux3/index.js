@@ -10,7 +10,6 @@ const INCREMENT_BY_VALUE = 'INCREMENT_BY_VALUE';
 // ----------------- 1st Step ---------------
 // define state 
 const initialState = {
-    users: ['samiha'],
     count: 0
 };
 
